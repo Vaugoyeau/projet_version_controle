@@ -1,0 +1,18 @@
+---
+title: "Modifiez vos données dans R"
+author: Marie VAUGOYEAU
+format:
+  html:
+    toc: true
+    footer: "Cours OpenClassRoom - Formatez vos données à l’aide de R"
+editor: visual
+execute:
+  echo: true
+  error: true
+  warning: true
+  message: true
+---
+
+*Ce support est à remplir en suivant le cours Initiez vous à R pour l'analyse de données - Partie 2 : Formatez vous données à l'aide de R*
+
+# 
