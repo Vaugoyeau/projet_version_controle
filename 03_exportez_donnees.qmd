@@ -15,4 +15,29 @@ execute:
 
 *Ce support est à remplir en suivant le cours Initiez vous à R pour l'analyse de données - Partie 2 : Formatez vous données à l'aide de R*
 
-# 
+# Enregistrez une table sous format `csv`
+
+```{r}
+
+```
+
+# Enregistrez une table sous format `xslx`
+
+```{r}
+
+
+```
+
+# Enregistrez du texte
+
+```{r}
+
+
+```
+
+# Enregistrez une image
+
+```{r}
+
+
+```

@@ -15,4 +15,38 @@ execute:
 
 *Ce support est à remplir en suivant le cours Initiez vous à R pour l'analyse de données - Partie 2 : Formatez vous données à l'aide de R*
 
-# 
+# Importez un fichier `csv`
+
+Les données sont disponibles dans le dossier `data-raw`, dans [le cours d'OpenClassRoom]() et sur le site [Open data du gouvernement](https://www.data.gouv.fr/fr/datasets/mixite-dans-le-groupe-edf/).
+
+```{r}
+
+
+```
+
+# Importez un fichier `.xsls`
+
+Les données sont disponibles dans le dossier `data-raw`, dans [le cours d'OpenClassRoom]() et sur le site de [Statistiques du gouvernement Singarpourien](https://stats.mom.gov.sg/Pages/Occupational-Wages-Tables2022.aspx).
+
+```{r}
+
+```
+
+# Importez du texte depuis une page web
+
+Vous travaillez sur les stéréotypes de genre et vous souhaitez récupérer les résultats des deux études menées en 2022 par [Ipsos](https://www.ipsos.com/fr-fr) et [ARESVI](https://aresvi.fr/) pour connaître le poids de la masculinité toxique sur les garçons en France. Cela tombe bien les informations principales sont disponibles sur le site [Ipsos](https://www.ipsos.com/fr-fr/egalite-femme-homme-un-ancrage-precoce-des-stereotypes-de-genre-chez-les-enfants) mais sous forme de texte !\
+Aucun soucis, R va vous aider à récupérer les informations.
+
+Pour cela vous allez avoir besoin du package `{rvest}` qu'il vous faut installer puis importer.
+
+```{r}
+
+```
+
+# importez une image
+
+L'image utilisée ici est le logo d'OpenClassRoom disponible dans le sous dossier `img`.
+
+```{r}
+
+```

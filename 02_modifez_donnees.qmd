@@ -15,4 +15,66 @@ execute:
 
 *Ce support est à remplir en suivant le cours Initiez vous à R pour l'analyse de données - Partie 2 : Formatez vous données à l'aide de R*
 
-# 
+# Modifiez les données contenues dans une table
+
+A partir du tableau de données de la représentation des femmes dans les entreprises du groupes EDF
+
+```{r}
+
+```
+
+Sélection des colonnes en français.
+
+```{r}
+
+```
+
+Afficher une seule ligne
+
+```{r}
+
+```
+
+Afficher plusieurs lignes
+
+```{r}
+
+```
+
+# Modifiez du texte dans R
+
+Nous repartons du texte importé sur le site [Kering Foundation](https://www.keringfoundation.org/fr/).
+
+```{r}
+
+```
+
+# Modifiez une image dans R
+
+## changer le format
+
+Convertir en `PNG`
+
+```{r}
+
+
+```
+
+## Sélectionnez une partie de l'image
+
+```{r}
+
+```
+
+## Lire du texte dans une image
+
+```{r}
+
+
+```
+
+## Incliner une image
+
+```{r}
+
+```

@@ -1,0 +1,66 @@
+tri;annee;perimetre_juridique;legal_perimeter;perimetre_spatial;spatial_perimeter;indicateur;indicator;valeur_de_l_indicateur;unite;unit;methode_de_consolidation;consolidation_method
+1;2022;Groupe EDF;EDF Group;Monde;Worldwide;Nombre d'hommes et de femmes au Comex;Total executives (man + woman);12.0;nombre;number;Intégration Globale;Full integration
+2;2022;Groupe EDF;EDF Group;Monde;Worldwide;Nombre de femmes au Comex;Executive woman;2.0;nombre;number;Intégration Globale;Full integration
+3;2022;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;127130.0;Nombre;Number;Intégration Globale;Full integration
+4;2022;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;44360.0;Nombre;Number;Intégration Globale;Full integration
+5;2022;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;41061.0;Nombre;Number;Intégration Globale;Full integration
+6;2022;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;16803.0;Nombre;Number;Intégration Globale;Full integration
+7;2022;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);37.8;%;%;Intégration Globale;Full integration
+8;2022;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);29.099999999999998;%;%;Intégration Globale;Full integration
+9;2021;Groupe EDF;EDF Group;Monde;Worldwide;Nombre d'hommes et de femmes au Comex;Total executives (man + woman);12.0;nombre;number;Intégration Globale;Full integration
+10;2021;Groupe EDF;EDF Group;Monde;Worldwide;Nombre de femmes au Comex;Executive woman;2.0;nombre;number;Intégration Globale;Full integration
+11;2021;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;123915.0;Nombre;Number;Intégration Globale;Full integration
+12;2021;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;43242.0;Nombre;Number;Intégration Globale;Full integration
+13;2021;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;39345.0;Nombre;Number;Intégration Globale;Full integration
+14;2021;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;15986.0;Nombre;Number;Intégration Globale;Full integration
+15;2021;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);37.0;%;%;Intégration Globale;Full integration
+16;2021;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);28.9;%;%;Intégration Globale;Full integration
+17;2020;Groupe EDF;EDF Group;Monde;Worldwide;Nombre d'hommes et de femmes au Comex;Total executives (man + woman);12.0;nombre;number;Intégration Globale;Full integration
+18;2020;Groupe EDF;EDF Group;Monde;Worldwide;Nombre de femmes au Comex;Executive woman;2.0;nombre;number;Intégration Globale;Full integration
+19;2020;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;122578.0;Nombre;Number;Intégration Globale;Full integration
+20;2020;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;42622.0;Nombre;Number;Intégration Globale;Full integration
+21;2020;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;38084.0;Nombre;Number;Intégration Globale;Full integration
+22;2020;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;15401.0;Nombre;Number;Intégration Globale;Full integration
+23;2020;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);36.0;%;%;Intégration Globale;Full integration
+24;2020;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);28.8;%;%;Intégration Globale;Full integration
+25;2019;Groupe EDF;EDF Group;Monde;Worldwide;Nombre d'hommes et de femmes au Comex;Total executives (man + woman);12.0;nombre;number;Intégration Globale;Full integration
+26;2019;Groupe EDF;EDF Group;Monde;Worldwide;Nombre de femmes au Comex;Executive woman;2.0;nombre;number;Intégration Globale;Full integration
+27;2019;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;123813.0;Nombre;Number;Intégration Globale;Full integration
+28;2019;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;40912.0;Nombre;Number;Intégration Globale;Full integration
+29;2019;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;38097.0;Nombre;Number;Intégration Globale;Full integration
+30;2019;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;14999.0;Nombre;Number;Intégration Globale;Full integration
+31;2019;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);37.0;%;%;Intégration Globale;Full integration
+32;2019;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);28.2;%;%;Intégration Globale;Full integration
+33;2018;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;124889.0;Nombre;Number;Intégration Globale;Full integration
+34;2018;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;40901.0;Nombre;Number;Intégration Globale;Full integration
+35;2018;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;37888.0;Nombre;Number;Intégration Globale;Full integration
+36;2018;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;14474.0;Nombre;Number;Intégration Globale;Full integration
+37;2018;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);35.0;%;%;Intégration Globale;Full integration
+38;2018;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);27.6;%;%;Intégration Globale;Full integration
+39;2017;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;112504.0;Nombre;Number;Intégration Globale;Full integration
+40;2017;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;39529.0;Nombre;Number;Intégration Globale;Full integration
+41;2017;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;32654.0;Nombre;Number;Intégration Globale;Full integration
+42;2017;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;12863.0;Nombre;Number;Intégration Globale;Full integration
+43;2017;Groupe EDF;EDF Group;Monde;Worldwide;Pourcentage de femmes dans le collège cadres;Women at managerial level (female managers / total female workforce);32.5;%;%;Intégration Globale;Full integration
+44;2017;Groupe EDF;EDF Group;Monde;Worldwide;Taux de féminisation de l'encadrement;Women managers (female managers / total managers men and women);28.3;%;%;Intégration Globale;Full integration
+45;2016;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;114503.0;Nombre;Number;Intégration Globale;Full integration
+46;2016;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;40342.0;Nombre;Number;Intégration Globale;Full integration
+47;2016;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;32941.0;Nombre;Number;Intégration Globale;Full integration
+48;2016;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;12533.0;Nombre;Number;Intégration Globale;Full integration
+49;2015;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;117295.0;Nombre;Number;Intégration Globale;Full integration
+50;2015;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;41817.0;Nombre;Number;Intégration Globale;Full integration
+51;2015;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;33383.0;Nombre;Number;Intégration Globale;Full integration
+52;2015;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;12552.0;Nombre;Number;Intégration Globale;Full integration
+53;2014;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;116582.0;Nombre;Number;Intégration Globale;Full integration
+54;2014;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;41579.0;Nombre;Number;Intégration Globale;Full integration
+55;2014;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;32626.0;Nombre;Number;Intégration Globale;Full integration
+56;2014;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;11913.0;Nombre;Number;Intégration Globale;Full integration
+57;2013;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;116928.0;Nombre;Number;Intégration Globale;Full integration
+58;2013;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;41539.0;Nombre;Number;Intégration Globale;Full integration
+59;2013;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;31468.0;Nombre;Number;Intégration Globale;Full integration
+60;2013;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;10859.0;Nombre;Number;Intégration Globale;Full integration
+61;2012;Groupe EDF;EDF Group;Monde;Worldwide;Effectif hommes;Male workforce;118512.0;Nombre;Number;Intégration Globale;Full integration
+62;2012;Groupe EDF;EDF Group;Monde;Worldwide;Effectif femmes;Female workforce;41228.0;Nombre;Number;Intégration Globale;Full integration
+63;2012;Groupe EDF;EDF Group;Monde;Worldwide;Hommes cadres;Male managers;30286.0;Nombre;Number;Intégration Globale;Full integration
+64;2012;Groupe EDF;EDF Group;Monde;Worldwide;Femmes cadres;Female managers;10069.0;Nombre;Number;Intégration Globale;Full integration
+;2022;Groupe EDF;EDF Group;Monde;Worldwide;Nombre de femmes au Comex;Executive woman;2.0;nombre;number;Intégration Globale;Full integration
